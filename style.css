@@ -1,0 +1,77 @@
+body{
+
+  
+  
+  font-size: 100%;
+margin-left: 10%; margin-right: 10%; margin-bottom: 5%; margin-top: 5%;
+padding-left: 10%;padding-right: 10%;
+border-radius: 10px;
+  margin: 100px;
+  background-color: #F1DBBF;
+}
+h1{
+  
+ font-family: 'Lobster Two', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: #0005c9;
+}
+h2{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+p{
+  
+   font-family: 'Domine', serif;
+  font-size: 16px;
+  font-weight: normal;
+  text-align: justify;
+}
+h3{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+
+h4{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+h5{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+h6{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+h7{
+  font-family: 'Cookie', cursive;
+  font-size: 36px;
+  text-align: left;
+  color: #6f1ab6;
+}
+li {
+   font-family: 'Domine', serif;
+}
+img{
+  width: 400px;
+}
+
+figcaption{
+  font-size: 14px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+ul {
+ font-family: 'Domine', serif;
+}
